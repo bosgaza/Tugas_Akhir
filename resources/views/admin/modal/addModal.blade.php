@@ -23,13 +23,13 @@
                         </div>
                     </div>
                     <div class="mb-3 row">
-                        <label for="type" class="col-sm-5 col-form-label">Type Product</label>
+                        <label for="type" class="col-sm-5 col-form-label">Merk Product</label>
                         <div class="col-sm-7">
                             <select type="text" class="form-control" id="type" name="type">
                                 <option value=""> Pilih Type </option>
-                                <option value="celana">Celana</option>
-                                <option value="baju">Baju</option>
-                                <option value="aksesoris">Aksesoris</option>
+                                <option value="celana">Xiaomi</option>
+                                <option value="baju">Infinix</option>
+                                <option value="aksesoris">Vivo</option>
                             </select>
                         </div>
                     </div>
@@ -38,26 +38,26 @@
                         <div class="col-sm-7">
                             <select type="text" class="form-control" id="kategori" name="kategori">
                                 <option value=""> Pilih Kategori </option>
-                                <option value="Pria">Pria</option>
-                                <option value="Wanita">Wanita</option>
-                                <option value="Anak-anak">Anak-anak</option>
+                                <option value="Pria">Xioami Terbaru</option>
+                                <option value="Wanita">Infinix Terbaru</option>
+                                <option value="Anak-anak">Vivo Terbaru</option>
                             </select>
                         </div>
                     </div>
                     <div class="mb-3 row">
-                        <label for="harga" class="col-sm-5 col-form-label">Harga Product</label>
+                        <label for="harga" class="col-sm-5 col-form-label">Harga Produk</label>
                         <div class="col-sm-7">
                             <input type="number" class="form-control" id="harga" name="harga">
                         </div>
                     </div>
                     <div class="mb-3 row">
-                        <label for="quantity" class="col-sm-5 col-form-label">Qty Product</label>
+                        <label for="quantity" class="col-sm-5 col-form-label">Jumlah Produk</label>
                         <div class="col-sm-7">
                             <input type="number" class="form-control" id="quantity" name="quantity">
                         </div>
                     </div>
                     <div class="mb-3 row">
-                        <label for="foto" class="col-sm-5 col-form-label">Foto Product</label>
+                        <label for="foto" class="col-sm-5 col-form-label">Foto Produk</label>
                         <div class="col-sm-7">
                             <input type="hidden" name="foto">
                             <img class="mb-2 preview"

@@ -5,7 +5,7 @@
         <div class="" style="width: 30%;">
             <div class="card" style="width: 18rem;">
                 <div class="card-header">
-                    Kategory
+                    Daftar Produk Android Terbaru 2024 Yang Tersedia
                 </div>
                 <div class="card-body">
                     <div class="accordion accordion-flush" id="accordionFlushExample">
@@ -14,7 +14,7 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseOne" aria-expanded="false"
                                     aria-controls="flush-collapseOne">
-                                    Pria
+                                    Xiaomi
                                 </button>
                             </h2>
                             <div id="flush-collapseOne" class="accordion-collapse collapse"
@@ -23,15 +23,27 @@
                                     <div class="d-flex flex-column gap-4">
                                         <div class="d-flex flex-row gap-3">
                                             <input type="checkbox" name="kategory" class="kategory" value="celana Pria">
-                                            <span>Celana Pria</span>
+                                            <span>Redmi Note 13 Pro 4G</span>
                                         </div>
                                         <div class="d-flex flex-row gap-3">
                                             <input type="checkbox" name="kategory" class="kategory" value="baju Pria">
-                                            <span>Baju Pria</span>
+                                            <span>Poco X6</span>
                                         </div>
                                         <div class="d-flex flex-row gap-3">
                                             <input type="checkbox" name="kategory" class="kategory" value="aksesoris Pria">
-                                            <span>Aksesoris Pria</span>
+                                            <span>Xiaomi Redmi 13C</span>
+                                        </div>
+                                        <div class="d-flex flex-row gap-3">
+                                            <input type="checkbox" name="kategory" class="kategory" value="aksesoris Pria">
+                                            <span>Xiaomi 13 Pro</span>
+                                        </div>
+                                        <div class="d-flex flex-row gap-3">
+                                            <input type="checkbox" name="kategory" class="kategory" value="aksesoris Pria">
+                                            <span>Xiaomi 14 Pro</span>
+                                        </div>
+                                        <div class="d-flex flex-row gap-3">
+                                            <input type="checkbox" name="kategory" class="kategory" value="aksesoris Pria">
+                                            <span>Xiaomi 13T Pro</span>
                                         </div>
                                     </div>
                                 </div>
@@ -42,7 +54,7 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseTwo" aria-expanded="false"
                                     aria-controls="flush-collapseTwo">
-                                    Wanita
+                                    Infinix
                                 </button>
                             </h2>
                             <div id="flush-collapseTwo" class="accordion-collapse collapse"
@@ -53,16 +65,31 @@
                                             <div class="d-flex flex-row gap-3">
                                                 <input type="checkbox" name="kategory" class="kategory"
                                                     value="celana Wanita">
-                                                <span>Celana Wanita</span>
+                                                <span>Infinix Note 40 pro+ 5G</span>
+                                            </div>
+                                            <div class="d-flex flex-row gap-3">
+                                                <input type="checkbox" name="kategory" class="kategory"
+                                                    value="celana Wanita">
+                                                <span>Infinix Note 40 pro 4G</span>
                                             </div>
                                             <div class="d-flex flex-row gap-3">
                                                 <input type="checkbox" name="kategory" class="kategory" value="baju Wanita">
-                                                <span>Baju Wanita</span>
+                                                <span>Infinix Zero 40 pro 4G</span>
                                             </div>
                                             <div class="d-flex flex-row gap-3">
                                                 <input type="checkbox" name="kategory" class="kategory"
                                                     value="aksesoris Wanita">
-                                                <span>Aksesoris Wanita</span>
+                                                <span>Infinix Note 30</span>
+                                            </div>
+                                            <div class="d-flex flex-row gap-3">
+                                                <input type="checkbox" name="kategory" class="kategory"
+                                                    value="celana Wanita">
+                                                <span>Infinix Smart 8 Pro</span>
+                                            </div>
+                                            <div class="d-flex flex-row gap-3">
+                                                <input type="checkbox" name="kategory" class="kategory"
+                                                    value="celana Wanita">
+                                                <span>Infinix Hot 40i</span>
                                             </div>
                                         </div>
                                     </div>
@@ -74,7 +101,7 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseThree" aria-expanded="false"
                                     aria-controls="flush-collapseThree">
-                                    Anak-anak
+                                    Vivo
                                 </button>
                             </h2>
                             <div id="flush-collapseThree" class="accordion-collapse collapse"
@@ -85,17 +112,32 @@
                                             <div class="d-flex flex-row gap-3">
                                                 <input type="checkbox" name="kategory" class="kategory"
                                                     value="celana anak-anak">
-                                                <span>Celana Anak-anak</span>
+                                                <span>Vivo Y03</span>
                                             </div>
                                             <div class="d-flex flex-row gap-3">
                                                 <input type="checkbox" name="kategory" class="kategory"
                                                     value="baju anak-anak">
-                                                <span>Baju Anak-anak</span>
+                                                <span>Vivo Y17</span>
                                             </div>
                                             <div class="d-flex flex-row gap-3">
                                                 <input type="checkbox" name="kategory" class="kategory"
                                                     value="aksesoris anak-anak">
-                                                <span>Aksesoris Anak-anak</span>
+                                                <span>Vivo Y28</span>
+                                            </div>
+                                            <div class="d-flex flex-row gap-3">
+                                                <input type="checkbox" name="kategory" class="kategory"
+                                                    value="aksesoris anak-anak">
+                                                <span>Vivo Y27s 5G</span>
+                                            </div>
+                                            <div class="d-flex flex-row gap-3">
+                                                <input type="checkbox" name="kategory" class="kategory"
+                                                    value="aksesoris anak-anak">
+                                                <span>Vivo Y100 5G</span>
+                                            </div>
+                                            <div class="d-flex flex-row gap-3">
+                                                <input type="checkbox" name="kategory" class="kategory"
+                                                    value="aksesoris anak-anak">
+                                                <span>Vivo V30e</span>
                                             </div>
                                         </div>
                                     </div>

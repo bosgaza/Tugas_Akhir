@@ -41,11 +41,11 @@
                             <div class="row w-50 gap-1">
                                 <button type="submit" class="btn btn-success col-sm-5">
                                     <i class="fa fa-shopping-cart"></i>
-                                    Checkout
+                                    Periksa
                                 </button>
                                 <button class="btn btn-danger col-sm-5">
                                     <i class="fa fa-trash-alt"></i>
-                                    Delete
+                                    Hapus
                                 </button>
                             </div>
                         </div>

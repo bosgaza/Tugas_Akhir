@@ -18,20 +18,20 @@
                         </div>
                     </div>
                     <div class="mb-3 row">
-                        <label for="nameProduct" class="col-sm-5 col-form-label">Nama Product</label>
+                        <label for="nameProduct" class="col-sm-5 col-form-label">Nama Produk</label>
                         <div class="col-sm-7">
                             <input type="text" class="form-control" id="nameProduct" name="nama"
                                 value="{{ $data->nama_product }}">
                         </div>
                     </div>
                     <div class="mb-3 row">
-                        <label for="type" class="col-sm-5 col-form-label">Type Product</label>
+                        <label for="type" class="col-sm-5 col-form-label">Type Produk</label>
                         <div class="col-sm-7">
                             <select type="text" class="form-control" id="type" name="type">
                                 <option value=""> Pilih Type </option>
-                                <option value="celana" {{ $data->type === 'celana' ? 'selected' : '' }}>Celana</option>
-                                <option value="baju" {{ $data->type === 'baju' ? 'selected' : '' }}>Baju</option>
-                                <option value="aksesoris" {{ $data->type === 'aksesoris' ? 'selected' : '' }}>Aksesoris
+                                <option value="celana" {{ $data->type === 'Xiaomi' ? 'selected' : '' }}>Xiaomi</option>
+                                <option value="baju" {{ $data->type === 'Infinix' ? 'selected' : '' }}>Infinix</option>
+                                <option value="aksesoris" {{ $data->type === 'Vivo' ? 'selected' : '' }}>Vivo
                                 </option>
                             </select>
                         </div>
@@ -41,11 +41,11 @@
                         <div class="col-sm-7">
                             <select type="text" class="form-control" id="kategori" name="kategori">
                                 <option value=""> Pilih Kategori </option>
-                                <option value="Pria" {{ $data->kategory === 'Pria' ? 'selected' : '' }}>Pria</option>
-                                <option value="Wanita" {{ $data->kategory === 'wanita' ? 'selected' : '' }}>Wanita
+                                <option value="Pria" {{ $data->kategory === 'Xiaomi Terbaru' ? 'selected' : '' }}>Xiaomi Terbaru</option>
+                                <option value="Wanita" {{ $data->kategory === 'Infinix Terbaru' ? 'selected' : '' }}>Infinix Terbaru
                                 </option>
-                                <option value="Anak-anak" {{ $data->kategory === 'Anak-anak' ? 'selected' : '' }}>
-                                    Anak-anak</option>
+                                <option value="Anak-anak" {{ $data->kategory === 'Vivo Terbaru' ? 'selected' : '' }}>
+                                    Vivo Terbaru</option>
                             </select>
                         </div>
                     </div>

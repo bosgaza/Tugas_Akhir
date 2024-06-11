@@ -5,7 +5,7 @@
         <div class="card-header bg-transparent d-flex justify-content-between">
             <button class="btn btn-info" id="addData">
                 <i class="fa fa-plus">
-                    <span>Tambah Product</span>
+                    <span>Tambah Produk</span>
                 </i>
             </button>
             <input type="text" wire:model="search" class="form-control w-25" placeholder="Search....">
@@ -18,9 +18,9 @@
                         <th>Foto</th>
                         <th>Date In</th>
                         <th>SKU</th>
-                        <th>Product Name</th>
-                        <th>Category</th>
-                        <th>Price</th>
+                        <th>Nama Produk</th>
+                        <th>kategory</th>
+                        <th>Harga</th>
                         <th>Stock</th>
                         <th>#</th>
                     </tr>

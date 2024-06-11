@@ -8,7 +8,7 @@
                     <span class="material-icons p-1 rounded" style="font-size:22px; color:green; background-color:#A6FF96">
                         inventory
                     </span>
-                    <h5 class="p-0 m-0" style="color:green">Total Product</h5>
+                    <h5 class="p-0 m-0" style="color:green">Total Produk</h5>
                 </div>
                 <span class="fs-2 p-0 m-0">{{ $totalProduct }}</span>
             </div>
@@ -64,7 +64,7 @@
                 <table class="table table-responsive table-striped" style="font-size: 12px">
                     <thead>
                         <tr>
-                            <th>Product</th>
+                            <th>Produk</th>
                             <th>Inbound Date</th>
                             <th>Stock</th>
                         </tr>
@@ -85,13 +85,13 @@
         </div>
         <div class="card rounded-full mt-2" style="width: 50%;">
             <div class="card-header">
-                Product terlaris
+                Produk terlaris
             </div>
             <div class="card-body">
                 <table class="table table-responsive table-striped" style="font-size: 12px">
                     <thead>
                         <tr>
-                            <th>Product</th>
+                            <th>Produk</th>
                             <th>Inbound Date</th>
                             <th>Stock</th>
                         </tr>
